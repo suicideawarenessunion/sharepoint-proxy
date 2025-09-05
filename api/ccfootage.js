@@ -22,7 +22,7 @@ export default async function handler(req, res) {
 
   // Redirect to SharePoint library
   res.writeHead(302, {
-    Location: "https://messengersworld.sharepoint.com/:f:/s/POSTSAU2/EjtRptc_x_9AhCpROquQ0xMByEcA0z79aAd86Uh2Rqjfgg"
+    Location: "https://messengersworld.sharepoint.com/:f:/s/POSTSAU2/EnZLXXij7Y1PloPoDe5OihABNuYkmVBfEGn2x2_TFfjqkw?e=1cCsZ9"
   });
   res.end();
 }
